@@ -58,7 +58,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 
 - Será `1` dia de projeto.
 
-- Data de entrega para avaliação final do projeto: `01/12/2022 14:00`.
+- Data de entrega regular para avaliação do projeto: `01/12/2022 14:00`.
   </details>
 
 # Orientações
